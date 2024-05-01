@@ -11,6 +11,7 @@ import streamlit as st
 #%%
 st.title('My first application')
 
+st.write('Welcome to my first application')
 
 # for test in the terminal run the follow code
 # streamlit run ArtigoStream.py
